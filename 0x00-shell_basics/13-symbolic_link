@@ -1,2 +1,2 @@
 #!/bin/bash
-ln /bin/ls
+ln -s _ls_ link to /bin/ls
