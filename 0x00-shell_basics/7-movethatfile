@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u betty /tmp/ /tmp/my_first_directory
+cp -u /tmp/ /tmp/my_first_directory betty
