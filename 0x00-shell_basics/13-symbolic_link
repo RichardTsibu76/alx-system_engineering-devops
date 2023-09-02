@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s _ls_ liked to /bin/ls_
+ln -s _ls_ linked_to_ /bin/ls_
