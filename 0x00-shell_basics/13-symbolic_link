@@ -1,3 +1,2 @@
 #!/bin/bash
-ln -s _ls_ /bin/ls
-_
+ln -s _ls_ liked to /bin/ls_
