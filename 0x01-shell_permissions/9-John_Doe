@@ -1,2 +1,0 @@
-#!/bin/bash
-chmod 753 1 julien:julien hello
