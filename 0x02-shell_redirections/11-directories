@@ -1,2 +1,2 @@
 #!/bin/bash
-find .
+find . -mindept -type d 1| wc -l.
