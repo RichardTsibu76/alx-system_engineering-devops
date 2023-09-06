@@ -1,0 +1,2 @@
+#!/bin/bash
+cat quote | tr 'A-Za-z' 'N-za'-Mn-za-m'
