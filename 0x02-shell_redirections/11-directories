@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mindept -type d 1| wc -l.
+find -mindepth 1 -type d | wc -l
